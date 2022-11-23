@@ -17,6 +17,7 @@
         </Grid.Background>
         <Grid Margin="25" RowDefinitions=".8*,.2*">
             <Label
+                x:Name="quote"
                 FontSize="50"
                 FontFamily="MainFont"
                 HorizontalTextAlignment="Center"
